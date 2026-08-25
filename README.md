@@ -1,4 +1,4 @@
-# adii-oss
+
 # 👋 Hi, I'm Aditya Bolewar
 
 ### 🎓 3rd Year Computer Science Engineering Student | 🐍 Python | 📊 Data Science | 🤖 AI
